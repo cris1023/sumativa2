@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ambiente Interactivo para Alumnos y Profesores</string>
+    <string name="contactos">contactos</string>
+    <string name="Chat">Chat</string>
+    <string name="agendar">agendar</string>
+    <string name="Agendar">Agendar</string>
+    <string name="Inicio">Inicio</string>
+    <string name="Home">Home</string>
+    <string name="Buscar">Buscar</string>
+    <string name="buscar">Buscar</string>
+    <string name="Charlar">Charlar</string>
+</resources>
